@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
 @font-face {
     font-family:'FonteLogo';
-    src: url("../_fonts/bubblegum-sans-regular.otf");
+    src: url("../fonts/bubblegum-sans-regular.otf");
 }
 body {
     font-family: Arial, sans-serif;
-    background-image: url(../_imagens/backgroundamraaa.jpg);
+    background-image: url(../imagens/backgroundamraaa.jpg);
     height: 100;
     background-position: center;
     background-repeat: no-repeat;
